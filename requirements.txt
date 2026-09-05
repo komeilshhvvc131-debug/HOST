@@ -1,0 +1,13 @@
+python-telegram-bot>=20,<23
+aiohttp
+beautifulsoup4
+Flask
+fastapi
+httpx
+numpy
+pandas
+Pillow
+psutil
+pytz
+requests
+urllib3
